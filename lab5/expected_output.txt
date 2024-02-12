@@ -1,0 +1,101 @@
+Testing FIFO behavior:
+Enqueueing elements: 10, 30, 20, 40, 50
+Dequeuing five elements:
+10
+30
+20
+40
+50
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+Enqueueing elements: 100, 110, 120, 130, 140, 150
+Queue overflow.
+Dequeuing five elements:
+100
+110
+120
+130
+140
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+Enqueueing mixed elements: 5, 15, 5, 25, 35, 45
+Queue overflow.
+Dequeuing five elements:
+5
+15
+5
+25
+35
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+
+Testing LIFO behavior:
+Enqueueing elements: 10, 30, 20, 40, 50
+Dequeuing five elements:
+50
+40
+20
+30
+10
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+Enqueueing elements: 100, 110, 120, 130, 140, 150
+Queue overflow.
+Dequeuing five elements:
+140
+130
+120
+110
+100
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+Enqueueing mixed elements: 5, 15, 5, 25, 35, 45
+Queue overflow.
+Dequeuing five elements:
+35
+25
+5
+15
+5
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+
+Testing Sorted behavior:
+Enqueueing elements: 10, 30, 20, 40, 50
+Dequeuing five elements:
+10
+20
+30
+40
+50
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+Enqueueing elements: 100, 110, 120, 130, 140, 150
+Queue overflow.
+Dequeuing five elements:
+100
+110
+120
+130
+140
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1
+Enqueueing mixed elements: 5, 15, 5, 25, 35, 45
+Queue overflow.
+Dequeuing five elements:
+5
+5
+15
+25
+35
+Attempt to dequeue from an empty queue:
+Queue underflow.
+-1

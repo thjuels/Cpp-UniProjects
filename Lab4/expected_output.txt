@@ -1,0 +1,25 @@
+Element already present.
+Set contains 20? Yes
+
+Element already present.
+Element not found.
+Set contains 20? Yes
+Current size: 2
+Current size: 1
+
+Container is full.
+Element not found.
+Current size: 2
+Set contains 20? Yes
+Current size: 3
+
+Container is full.
+Element not found.
+Current size: 2
+Current size: 3
+Set contains 20? Yes
+
+Is Super Set? Yes
+Is Super Set? No
+Is Super Set? Yes
+

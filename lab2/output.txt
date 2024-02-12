@@ -1,0 +1,41 @@
+No sushi: $0
+Salmon Sushi: $12
+No sushi: $0
+Salmon Sushi: $12
+Salmon Sushi: $12
+No sushi: $0
+
+SushiTrain 1:
+Capacity = 10, there is no sushi on the Sushi Train.
+Capacity = 10, total price for 0 sushi is $0
+Remove last sushi
+No sushi can be removed
+Capacity = 10, there is no sushi on the Sushi Train.
+Capacity = 10, total price for 0 sushi is $0
+Add salmon sushi
+Salmon Sushi: $12 
+Capacity = 10, total price for 1 sushi is $12
+Add tuna sushi
+Salmon Sushi: $12 Tuna Sushi: $17 
+Capacity = 10, total price for 2 sushi is $29
+
+SushiTrain 2:
+Salmon Sushi: $12 Tuna Sushi: $17 Egg Sushi: $8 Tuna Sushi: $17 Beef Sushi: $12 
+Capacity = 5, total price for 5 sushi is $66
+Add salmon sushi
+Insufficient capacity
+Salmon Sushi: $12 Tuna Sushi: $17 Egg Sushi: $8 Tuna Sushi: $17 Beef Sushi: $12 
+Capacity = 5, total price for 5 sushi is $66
+Remove last sushi
+Salmon Sushi: $12 Tuna Sushi: $17 Egg Sushi: $8 Tuna Sushi: $17 
+Capacity = 5, total price for 4 sushi is $54
+
+SushiTrain 3:
+Salmon Sushi: $12 Tuna Sushi: $17 Egg Sushi: $8 Tuna Sushi: $17 
+Capacity = 5, total price for 4 sushi is $54
+Remove last sushi
+Salmon Sushi: $12 Tuna Sushi: $17 Egg Sushi: $8 
+Capacity = 5, total price for 3 sushi is $37
+Add shrimp sushi
+Salmon Sushi: $12 Tuna Sushi: $17 Egg Sushi: $8 Shrimp Sushi: $12 
+Capacity = 5, total price for 4 sushi is $49
